@@ -1,0 +1,5 @@
+foe_spawnpoint:x,y,cd,data,disabled
+melee_foe:     x,y,dx,dy,hp,atk,atk_sep,atk_cd,def,spd,range,phase,phase_cd,idle_dur,attack_dur,attack_charge
+gunner_foe:    x,y,dx,dy,hp,atk,atk_sep,atk_cd,def,spd,range,phase,phase_cd,idle_dur,attack_dur,wander_cd,shots,bullet_spd,bullet_reflect,texture
+player_bullet: x,y,dx,dy,dmg,spd,reflect,range,disabled
+foe_bullet:    x,y,dx,dy,dmg,spd,reflect,range,texture,disabled
